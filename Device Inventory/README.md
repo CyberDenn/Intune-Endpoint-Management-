@@ -1,1 +1,1 @@
-
+A planned inventory of 10 simulated devices (Windows, mac0S, iOS) used to practice Microsoft Intune enrollment and compliance policies. It covers corporate-owned devices (Windows Autopilot, Apple ADE) and BYOD (Company Portal, User Enrollment). Management status and compliance values are planned or simulated and will be updated as each device is enrolled in the lab.
